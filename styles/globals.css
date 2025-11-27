@@ -1,3 +1,6 @@
-body { font-family: Arial, sans-serif; margin:0; padding:0; }
-.container { max-width:900px; margin: 0 auto; padding: 16px; }
-button { padding:8px 12px; border-radius:6px; border:1px solid #ddd; }
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body { background:#0F0F0F; color:white; }
+.card { background:#121212; padding:20px; border-radius:12px; }
