@@ -1,0 +1,25 @@
+{
+  "id": "festival-2",
+  "title": "Festival Template 2",
+  "category": "festival",
+  "image": "/templates/festival/template2.svg",
+  "colors": [
+    "#3B82F6",
+    "#8B5CF6"
+  ],
+  "fonts": [
+    "Poppins",
+    "Dancing Script"
+  ],
+  "safeArea": {
+    "x": 100,
+    "y": 120,
+    "width": 1000,
+    "height": 400
+  },
+  "tags": [
+    "festival",
+    "invitation",
+    "ai"
+  ]
+}

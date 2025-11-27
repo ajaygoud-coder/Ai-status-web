@@ -1,0 +1,25 @@
+{
+  "id": "traditional-5",
+  "title": "Traditional Template 5",
+  "category": "traditional",
+  "image": "/templates/traditional/template5.svg",
+  "colors": [
+    "#3B82F6",
+    "#8B5CF6"
+  ],
+  "fonts": [
+    "Poppins",
+    "Dancing Script"
+  ],
+  "safeArea": {
+    "x": 100,
+    "y": 120,
+    "width": 1000,
+    "height": 400
+  },
+  "tags": [
+    "traditional",
+    "invitation",
+    "ai"
+  ]
+}

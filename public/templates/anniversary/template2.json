@@ -1,0 +1,25 @@
+{
+  "id": "anniversary-2",
+  "title": "Anniversary Template 2",
+  "category": "anniversary",
+  "image": "/templates/anniversary/template2.svg",
+  "colors": [
+    "#3B82F6",
+    "#8B5CF6"
+  ],
+  "fonts": [
+    "Poppins",
+    "Dancing Script"
+  ],
+  "safeArea": {
+    "x": 100,
+    "y": 120,
+    "width": 1000,
+    "height": 400
+  },
+  "tags": [
+    "anniversary",
+    "invitation",
+    "ai"
+  ]
+}

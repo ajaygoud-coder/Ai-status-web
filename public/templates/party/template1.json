@@ -1,0 +1,25 @@
+{
+  "id": "party-1",
+  "title": "Party Template 1",
+  "category": "party",
+  "image": "/templates/party/template1.svg",
+  "colors": [
+    "#3B82F6",
+    "#8B5CF6"
+  ],
+  "fonts": [
+    "Poppins",
+    "Dancing Script"
+  ],
+  "safeArea": {
+    "x": 100,
+    "y": 120,
+    "width": 1000,
+    "height": 400
+  },
+  "tags": [
+    "party",
+    "invitation",
+    "ai"
+  ]
+}

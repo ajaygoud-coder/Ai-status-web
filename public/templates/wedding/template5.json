@@ -1,0 +1,25 @@
+{
+  "id": "wedding-5",
+  "title": "Wedding Template 5",
+  "category": "wedding",
+  "image": "/templates/wedding/template5.svg",
+  "colors": [
+    "#FFD700",
+    "#FFFFFF"
+  ],
+  "fonts": [
+    "Poppins",
+    "Dancing Script"
+  ],
+  "safeArea": {
+    "x": 100,
+    "y": 120,
+    "width": 1000,
+    "height": 400
+  },
+  "tags": [
+    "wedding",
+    "invitation",
+    "ai"
+  ]
+}
